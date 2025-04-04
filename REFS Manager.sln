@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReFS Manager Core", "ReFS Manager Core\ReFS Manager Core.csproj", "{FD6C8922-9DA8-4C07-B2BB-943679B0794D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReFSManagerConsole", "ReFSManagerConsole\ReFSManagerConsole.csproj", "{F2E7599D-75B3-4523-802A-CCD5E230BC53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD6C8922-9DA8-4C07-B2BB-943679B0794D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD6C8922-9DA8-4C07-B2BB-943679B0794D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD6C8922-9DA8-4C07-B2BB-943679B0794D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD6C8922-9DA8-4C07-B2BB-943679B0794D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2E7599D-75B3-4523-802A-CCD5E230BC53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2E7599D-75B3-4523-802A-CCD5E230BC53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2E7599D-75B3-4523-802A-CCD5E230BC53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2E7599D-75B3-4523-802A-CCD5E230BC53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87BC4730-B68F-42B5-8212-73B16A5678D4}
+	EndGlobalSection
+EndGlobal
